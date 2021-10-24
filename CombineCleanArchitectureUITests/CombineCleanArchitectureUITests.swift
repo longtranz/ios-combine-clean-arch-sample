@@ -2,7 +2,7 @@
 //  CombineCleanArchitectureUITests.swift
 //  CombineCleanArchitectureUITests
 //
-//  Created by DucNT65.FIN on 10/24/21.
+//  Created by Long Tran on 10/24/21.
 //
 
 import XCTest
