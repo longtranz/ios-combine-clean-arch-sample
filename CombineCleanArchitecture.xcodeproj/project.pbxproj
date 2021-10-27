@@ -14,7 +14,6 @@
 		8E94C4DD2724D73F0056B8C7 /* CombineCleanArchitectureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E94C4DC2724D73F0056B8C7 /* CombineCleanArchitectureTests.swift */; };
 		8E94C4E82724D7400056B8C7 /* CombineCleanArchitectureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E94C4E72724D7400056B8C7 /* CombineCleanArchitectureUITests.swift */; };
 		8E94C4F92724DDB30056B8C7 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 8E94C4F82724DDB30056B8C7 /* Kingfisher */; };
-		8E94C4FC27255DDF0056B8C7 /* API.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E94C4FB27255DDF0056B8C7 /* API.plist */; };
 		8E94C51B2725B8D70056B8C7 /* MovieNowPlayingListPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E94C5002725B8D70056B8C7 /* MovieNowPlayingListPresenter.swift */; };
 		8E94C51C2725B8D70056B8C7 /* MovieNowPlayingCellPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E94C5012725B8D70056B8C7 /* MovieNowPlayingCellPresenter.swift */; };
 		8E94C51D2725B8D70056B8C7 /* MovieCellPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E94C5022725B8D70056B8C7 /* MovieCellPresenter.swift */; };
@@ -91,7 +90,6 @@
 		8E94C4E32724D7400056B8C7 /* CombineCleanArchitectureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CombineCleanArchitectureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E94C4E72724D7400056B8C7 /* CombineCleanArchitectureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineCleanArchitectureUITests.swift; sourceTree = "<group>"; };
 		8E94C4E92724D7400056B8C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8E94C4FB27255DDF0056B8C7 /* API.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = API.plist; sourceTree = "<group>"; };
 		8E94C5002725B8D70056B8C7 /* MovieNowPlayingListPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieNowPlayingListPresenter.swift; sourceTree = "<group>"; };
 		8E94C5012725B8D70056B8C7 /* MovieNowPlayingCellPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieNowPlayingCellPresenter.swift; sourceTree = "<group>"; };
 		8E94C5022725B8D70056B8C7 /* MovieCellPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieCellPresenter.swift; sourceTree = "<group>"; };
@@ -256,7 +254,6 @@
 		8E94C5062725B8D70056B8C7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				8E94C4FB27255DDF0056B8C7 /* API.plist */,
 				8E94C5072725B8D70056B8C7 /* Assets.xcassets */,
 			);
 			path = Resources;
@@ -541,7 +538,6 @@
 				8E94C5572725B8FC0056B8C7 /* now_playing.json in Resources */,
 				8E94C5612725B8FC0056B8C7 /* GenreListView.xib in Resources */,
 				8E94C4D22724D73F0056B8C7 /* LaunchScreen.storyboard in Resources */,
-				8E94C4FC27255DDF0056B8C7 /* API.plist in Resources */,
 				8E94C4CD2724D73F0056B8C7 /* Main.storyboard in Resources */,
 				8E94C5542725B8FC0056B8C7 /* popular_1.json in Resources */,
 				8E94C5532725B8FC0056B8C7 /* popular_2.json in Resources */,
