@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E806322272A187000C4264D /* API.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E806321272A187000C4264D /* API.plist */; };
 		8E94C4C62724D73F0056B8C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E94C4C52724D73F0056B8C7 /* AppDelegate.swift */; };
 		8E94C4C82724D73F0056B8C7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E94C4C72724D73F0056B8C7 /* SceneDelegate.swift */; };
 		8E94C4CD2724D73F0056B8C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E94C4CB2724D73F0056B8C7 /* Main.storyboard */; };
@@ -78,6 +79,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E806321272A187000C4264D /* API.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = API.plist; sourceTree = "<group>"; };
 		8E94C4C22724D73F0056B8C7 /* CombineCleanArchitecture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombineCleanArchitecture.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E94C4C52724D73F0056B8C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8E94C4C72724D73F0056B8C7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -254,6 +256,7 @@
 		8E94C5062725B8D70056B8C7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				8E806321272A187000C4264D /* API.plist */,
 				8E94C5072725B8D70056B8C7 /* Assets.xcassets */,
 			);
 			path = Resources;
@@ -538,6 +541,7 @@
 				8E94C5572725B8FC0056B8C7 /* now_playing.json in Resources */,
 				8E94C5612725B8FC0056B8C7 /* GenreListView.xib in Resources */,
 				8E94C4D22724D73F0056B8C7 /* LaunchScreen.storyboard in Resources */,
+				8E806322272A187000C4264D /* API.plist in Resources */,
 				8E94C4CD2724D73F0056B8C7 /* Main.storyboard in Resources */,
 				8E94C5542725B8FC0056B8C7 /* popular_1.json in Resources */,
 				8E94C5532725B8FC0056B8C7 /* popular_2.json in Resources */,
